@@ -72,7 +72,7 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in Ahmedabad, Gujarat, India. I love to create simple yet beautiful websites with great user experience.
+        {/* I'm a front-end developer located in Ahmedabad, Gujarat, India. I love to create simple yet beautiful websites with great user experience. */}
 <br /> <br/>
 I'm blogger. I love to write blogs and read books.
 <br/> <br/>
