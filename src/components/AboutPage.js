@@ -74,7 +74,7 @@ const AboutPage = () => {
         <Main>
         I'm a front-end developer located in Ahmedabad, Gujarat, India. I love to create simple yet beautiful websites with great user experience.
 <br /> <br/>
-I'm blogger. I love to write blogs and read books.
+I'm blogger. I love to write blogs and travel the world.
 <br/> <br/>
 I have Youtube channel Whose name is thevivekchauhan. You can connect with me via social links.
         </Main>
